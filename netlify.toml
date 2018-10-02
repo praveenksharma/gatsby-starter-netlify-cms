@@ -6,4 +6,4 @@
   YARN_FLAGS = "--no-ignore-optional"
 [[redirects]]
   from = "/goog"
-  to = "https:www.amukta.net"
+  to = "https:www.amukta.net:splat"
